@@ -1,7 +1,8 @@
-hola
+hola desde la rama feature-conflicto
 ejemplo de push
 Probando el pull
 primer texto de prueba
 realizando pruba
 practica
 linea desde la rama rama-prueba
+
